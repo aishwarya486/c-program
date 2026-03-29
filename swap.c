@@ -1,4 +1,4 @@
-This is me amruta doing first trial
+This is me amruta doing first trial and im creating fork from asihwaryas copy
 #include <stdio.h>
 
 int main() {
